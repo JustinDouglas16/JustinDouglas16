@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+As a student software engineer, I have a strong foundation in programming languages such as Java, as well as a good understanding of web development technologies like HTML, CSS, and WordPress. I am always eager to learn and improve my skills, and am currently focused on expanding my expertise in PHP and JavaScript. In my role as a web developer, I have experience building websites and am committed to delivering high-quality work. I am excited to continue growing my skills and contributing to a variety of projects as a dedicated and talented software engineer.
 
 ---
 
